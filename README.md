@@ -1,2 +1,2 @@
 # maven-simple-project
-# PR1
+# PR2
